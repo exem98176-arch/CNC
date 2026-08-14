@@ -3,6 +3,9 @@
 This is a project of me designing a CNC machine in onshape the goal is I'll submit it and then try to actually physically build it with the money to get a hardware grant.
 This was done for Hack Club Horizons with Basic 12 by 12 inch design running a gantry
 
+<img width="599" height="387" alt="image" src="https://github.com/user-attachments/assets/9c7d6bf2-ba7b-4d34-84e3-c4ff3397d43e" />
+
+
 
 # WHY WAS IT DONE?
 
