@@ -22,7 +22,7 @@ Proceed to assemble the project using the onshape as some sort of a assemble gui
 after that you can download the software and get it to your ESP 32 Chip on the board
 AI USE As this is mainly a CAD project I will state that the code was completely AI generated I am not asking for time for that because that is not the goal
 # Onshape document link
-
+https://cad.onshape.com/documents/a1a4b60e02dc7bbfaa1fbfe5/w/f0d9976aef77285046fc5a94/e/683484fc6956fd1e9030d168?renderMode=0&uiState=6a7f770e94f6e1ceab1280c8
 
 # BOM
 
