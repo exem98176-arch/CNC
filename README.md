@@ -26,9 +26,55 @@ https://cad.onshape.com/documents/a1a4b60e02dc7bbfaa1fbfe5/w/f0d9976aef77285046f
 
 # BOM
 
+# Bill of Materials (BOM)
+
+###  Electronics & Control
+
+| Qty | Component Description | Source |
+| :--- | :--- | :--- |
+| 1 | MKS DLC32 V2.1 Control Board | [Amazon Link](https://amazon.com) |
+| 1 | 24V Power Supply Unit (PSU) | [Amazon Link](https://amazon.com) |
+| 1 | Rattm Motor 500W Spindle Kit with Power Supply | [Amazon Link](https://amazon.com) |
+| 1 | Limit Switch Pack | [Amazon Link](https://amazon.com) |
+| 3 | NEMA 17 Motor | Base Parts List |
+
+###  Motion & Drive Components
+| Qty | Component Description | Source |
+| :--- | :--- | :--- |
+| 2 | T8 Lead Screw | [Amazon Link](https://amazon.com) |
+| 3 | Flexible Couplings (5mm to 8mm) | [Amazon Link](https://amazon.com) |
+| 8 | Linear Bearings | [Amazon Link](https://amazon.com) |
+| 16 | 688ZZ Bearing | Base Parts List |
+| 2 | 8mm ID Bearing (14mm OD, 5mm WD, Shielded, Flanged) | Base Parts List |
+### Structural & Framing
+
+| Qty | Component Description | Source |
+| :--- | :--- | :--- |
+| 4 | REV-21-1000 1" Aluminum Extrusion (Clear Anodized) | Base Parts List |
+| 4 | Hole adapter | Base Parts List |
+| 4 | Bearing beam | Base Parts List |
+| 5 | T8 port | Base Parts List |
+| 1 | Gantry shoulder | Base Parts List |
+
+### 3D Printed Parts
+
+| Qty | Component Description | Source |
+| :--- | :--- | :--- |
+| 17 | Side bracket | 3D Printed STL |
+| 6 | Perpendicular holding bracket | 3D Printed STL |
+| 2 | Gantry holder | 3D Printed STL |
+| 1 | Bed | 3D Printed STL |
+
+###  Hardware & Fasteners
+
+| Qty | Component Description | Source |
+| :--- | :--- | :--- |
+| 89 | #4-40 x 3/8" L BHCS (Steel, Black Oxide) | Base Parts List |
+
+
 
 # AI use
 
 I used AI to help me cut some basic design concepts and how to do it to be affordable as well as helping me figure out some of the drivers and what parts would be necessary for the robotics area and the code 
-
+and bom formatijng
 ## All CAD was done by me with no assistance except for trying to figure out how to rename parts which I used a google search
