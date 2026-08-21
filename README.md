@@ -24,7 +24,7 @@ This was done for Hack Club Horizons with Basic 12 by 12 inch design running a g
 | Spindle power | Spindle kit's own AC supply | Fully isolated from the DLC32's 24V rail |
 | USB | Micro USB | Flashing + tethered control |
 | SD card | TF card slot | Offline jobs — FAT32, Class4/10, 4–16GB |
-
+AI FORMATTED
 # WHY WAS IT DONE?
 
 This was done because I wanted to Get better at CAD and also I really want to build myself a CNC machine and this would be a fun way to acquire some funding for it and get to build it.
@@ -85,6 +85,10 @@ https://cad.onshape.com/documents/a1a4b60e02dc7bbfaa1fbfe5/w/f0d9976aef77285046f
 | Qty | Component Description | Source |
 | :--- | :--- | :--- |
 | 89 | #4-40 x 3/8" L BHCS (Steel, Black Oxide) | Base Parts List |
+
+
+
+
 
 
 
