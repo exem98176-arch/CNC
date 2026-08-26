@@ -49,10 +49,10 @@ https://cad.onshape.com/documents/a1a4b60e02dc7bbfaa1fbfe5/w/f0d9976aef77285046f
 
 | Qty | Component Description | Source |
 | :--- | :--- | :--- |
-| 1 | MKS DLC32 V2.1 Control Board | [Amazon Link](https://amazon.com) |
-| 1 | 24V Power Supply Unit (PSU) | [Amazon Link](https://amazon.com) |
-| 1 | Rattm Motor 500W Spindle Kit with Power Supply | [Amazon Link](https://amazon.com) |
-| 1 | Limit Switch Pack | [Amazon Link](https://amazon.com) |
+| 1 | MKS DLC32 V2.1 Control Board | [Amazon Link]([https://amazon.com](https://www.amazon.com/gp/product/B07X142VGC/ref=ox_sc_act_title_2?smid=A30QSGOJR8LMXA&psc=1)) |
+| 1 | 24V Power Supply Unit (PSU) | [Amazon Link]([https://amazon.com](https://www.amazon.com/gp/product/B0DJR8QGRG/ref=ox_sc_act_title_1?smid=A2QJRKWT0U76FU&th=1)) |
+| 1 | Rattm Motor 500W Spindle Kit with Power Supply | [Amazon Link]([[https://amazon.com](https://www.amazon.com/gp/product/B07X142VGC/ref=ox_sc_act_title_2?smid=A30QSGOJR8LMXA&psc=1](https://www.amazon.com/gp/product/B07X142VGC/ref=ox_sc_act_title_2?smid=A30QSGOJR8LMXA&psc=1))) |
+| 1 | Limit Switch Pack | [Amazon Link]([https://amazon.com](https://www.amazon.com/gp/product/B07X142VGC/ref=ox_sc_act_title_2?smid=A30QSGOJR8LMXA&psc=1)) |
 | 3 | NEMA 17 Motor | Base Parts List |
 
 ###  Motion & Drive Components
