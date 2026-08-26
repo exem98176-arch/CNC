@@ -12,15 +12,15 @@ This was done for Hack Club Horizons with Basic 12 by 12 inch design running a g
 
 | Connection | Board Interface | Notes |
 |---|---|---|
-| Main power | `DC-007B-2.1mm` barrel jack | 12–24V DC, max 5A, 10A fuse |
+| Main power | DC-007B-2.1mm barrel jack | 12–24V DC, max 5A, 10A fuse |
 | X motor | X motor slot | Onboard driver, no external driver needed |
 | Y motor | Y motor slot | Onboard driver |
 | Z motor | Z motor slot | Onboard driver |
-| X limit switch | X endstop — `GND` + `S` | Mechanical switch, no power pin needed |
-| Y limit switch | Y endstop — `GND` + `S` | Same |
+| X limit switch | X endstop — GND + S | Mechanical switch, no power pin needed |
+| Y limit switch | Y endstop — GND + S | Same |
 | Z limit switch | Z endstop (separate connector from XY) | Same |
 | E-stop | Reset button port | Doubles as emergency stop input |
-| Spindle control | `SPINDLE` terminal (X1/X2) → spindle controller signal-in | **Signal only.** Board's native spindle output maxes at 20W @ 24V — not enough for a 500W spindle. |
+| Spindle control | SPINDLE terminal (X1/X2) → spindle controller signal-in | **Signal only.** Board's native spindle output maxes at 20W @ 24V — not enough for a 500W spindle. |
 | Spindle power | Spindle kit's own AC supply | Fully isolated from the DLC32's 24V rail |
 | USB | Micro USB | Flashing + tethered control |
 | SD card | TF card slot | Offline jobs — FAT32, Class4/10, 4–16GB |
