@@ -59,7 +59,7 @@ https://cad.onshape.com/documents/a1a4b60e02dc7bbfaa1fbfe5/w/f0d9976aef77285046f
 | Qty | Component Description | Source |
 | :--- | :--- | :--- |
 | 2 | T8 Lead Screw | [Amazon Link]((https://www.amazon.com/gp/product/B08JPPC1TZ/ref=ox_sc_act_title_8?smid=A2E52U58FCDBRC&psc=1) |
-| 3 | Flexible Couplings (5mm to 8mm) | [Amazon Link](https://amazon.com) |
+| 3 | Flexible Couplings (5mm to 8mm) | [Amazon Link][(https://amazon.com](https://www.amazon.com/gp/product/B07JL1QYLS/ref=ox_sc_act_title_7?smid=ABXX6PE65BQIW&psc=1) |
 | 8 | Linear Bearings | [Amazon Link](https://amazon.com) |
 | 16 | 688ZZ Bearing | Base Parts List |
 | 2 | 8mm ID Bearing (14mm OD, 5mm WD, Shielded, Flanged) | Base Parts List |
