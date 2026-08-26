@@ -24,6 +24,8 @@ This was done for Hack Club Horizons with Basic 12 by 12 inch design running a g
 | Spindle power | Spindle kit's own AC supply | Fully isolated from the DLC32's 24V rail |
 | USB | Micro USB | Flashing + tethered control |
 | SD card | TF card slot | Offline jobs — FAT32, Class4/10, 4–16GB |
+
+
 AI FORMATTED
 # WHY WAS IT DONE?
 
