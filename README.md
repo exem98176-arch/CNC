@@ -14,6 +14,9 @@ This was done for Hack Club Horizons with Basic 12 by 12 inch design running a g
 <img width="505" height="465" alt="image" src="https://github.com/user-attachments/assets/91ab4e20-bcda-4bde-8130-bfc2d7817e60" />
 
 
+<img width="391" height="485" alt="image" src="https://github.com/user-attachments/assets/3b30192e-e98d-4d58-a0b4-2fbe8dd59efc" />
+
+
 | Connection | Board Interface | Notes |
 |---|---|---|
 | Main power | DC-007B-2.1mm barrel jack | 12–24V DC, max 5A, 10A fuse |
